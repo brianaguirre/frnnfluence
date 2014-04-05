@@ -1,0 +1,128 @@
+[
+  {
+    "id": 0,
+    "picture": "http://placehold.it/32x32",
+    "name": "Cristina Sawyer",
+    "phone": "+1 (950) 405-3881",
+    "about": "Lorem enim velit tempor fugiat culpa ut est adipisicing voluptate aute excepteur magna et. Commodo elit sunt magna veniam et elit deserunt culpa ipsum. Eu incididunt consequat sint veniam labore id consequat. Laboris ipsum labore cupidatat enim fugiat cupidatat velit aute veniam laboris ad. Nostrud tempor et commodo anim.\r\n",
+    "friends": [
+      {
+        "id": 0,
+        "name": "Jaclyn Ochoa"
+      },
+      {
+        "id": 1,
+        "name": "Iris Medina"
+      },
+      {
+        "id": 2,
+        "name": "Sears Frost"
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "picture": "http://placehold.it/32x32",
+    "name": "Odessa Adkins",
+    "phone": "+1 (998) 438-3050",
+    "about": "Qui id deserunt sint laborum aliqua irure ea ipsum commodo proident cillum sint minim sit. Ipsum ullamco tempor incididunt nostrud proident qui consectetur cupidatat sit excepteur. Do duis ipsum reprehenderit laborum labore sint irure ipsum et. Ullamco veniam et proident qui in magna est sit laborum ad.\r\n",
+    "friends": [
+      {
+        "id": 0,
+        "name": "Tisha Pennington"
+      },
+      {
+        "id": 1,
+        "name": "Glenna Roberts"
+      },
+      {
+        "id": 2,
+        "name": "Delia Dunn"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "picture": "http://placehold.it/32x32",
+    "name": "Gross Hartman",
+    "phone": "+1 (992) 595-2809",
+    "about": "Eu ex excepteur veniam in culpa nostrud aliqua mollit. Occaecat nisi eiusmod minim eiusmod velit proident nisi sunt ad proident irure magna duis nostrud. Culpa voluptate commodo ea fugiat Lorem mollit non nostrud.\r\n",
+    "friends": [
+      {
+        "id": 0,
+        "name": "Faith Nash"
+      },
+      {
+        "id": 1,
+        "name": "Juliette Gomez"
+      },
+      {
+        "id": 2,
+        "name": "Ware Mcmahon"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "picture": "http://placehold.it/32x32",
+    "name": "Ayala Irwin",
+    "phone": "+1 (882) 526-2747",
+    "about": "Pariatur enim deserunt exercitation dolore velit fugiat officia consequat anim reprehenderit officia. Magna eu enim cupidatat ex. Et consectetur occaecat esse non duis. Dolore nulla eiusmod anim cillum.\r\n",
+    "friends": [
+      {
+        "id": 0,
+        "name": "Georgette Peck"
+      },
+      {
+        "id": 1,
+        "name": "Opal Cross"
+      },
+      {
+        "id": 2,
+        "name": "Sellers Monroe"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "picture": "http://placehold.it/32x32",
+    "name": "Dudley Taylor",
+    "phone": "+1 (906) 575-2219",
+    "about": "Laboris id duis eu commodo nulla sunt ut officia commodo do anim. Voluptate ea ad incididunt esse dolor cupidatat exercitation amet elit. Id sit aute amet excepteur incididunt et elit do nostrud velit deserunt quis commodo. Id adipisicing consectetur est adipisicing voluptate ullamco ex.\r\n",
+    "friends": [
+      {
+        "id": 0,
+        "name": "Gillespie Doyle"
+      },
+      {
+        "id": 1,
+        "name": "Clara Ware"
+      },
+      {
+        "id": 2,
+        "name": "Diane Berger"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "picture": "http://placehold.it/32x32",
+    "name": "Nicole Serrano",
+    "phone": "+1 (865) 402-2130",
+    "about": "Ullamco incididunt proident laboris Lorem quis labore mollit eiusmod mollit deserunt sunt consequat incididunt nisi. Ipsum dolore exercitation eiusmod laborum in veniam. Cillum eu officia in Lorem quis veniam et officia cillum proident excepteur excepteur ea et. Sunt labore in laborum quis labore id eiusmod voluptate aute pariatur ea ullamco. Irure adipisicing officia mollit ea Lorem veniam ullamco eu voluptate elit. Irure ullamco id occaecat culpa labore incididunt do id commodo excepteur esse minim sit proident. Fugiat mollit Lorem laborum velit amet nisi quis ex eu reprehenderit nisi.\r\n",
+    "friends": [
+      {
+        "id": 0,
+        "name": "Sonia Cherry"
+      },
+      {
+        "id": 1,
+        "name": "Caitlin Malone"
+      },
+      {
+        "id": 2,
+        "name": "Quinn Marquez"
+      }
+    ]
+  }
+]

@@ -1,0 +1,290 @@
+[
+  {
+    "id": 0,
+    "name": "Madden",
+    "phone": "+1 (895) 541-2093",
+    "about": "Et aute consequat esse qui commodo adipisicing ea ipsum. Aute adipisicing eiusmod incididunt aliquip dolore consectetur ea sint non Lorem dolor deserunt eu. Aliqua consequat et fugiat velit voluptate in.\r\n",
+    "attending": [
+      {
+        "id": 0,
+        "name": "Adkins Wong"
+      },
+      {
+        "id": 1,
+        "name": "Harper Crosby"
+      },
+      {
+        "id": 2,
+        "name": "Katy Hudson"
+      }
+    ],
+    "notattending": [
+      {
+        "id": 0,
+        "name": "Cox French"
+      },
+      {
+        "id": 1,
+        "name": "Deirdre Boyd"
+      }
+    ],
+    "unsure": [
+      {
+        "id": 0,
+        "name": "Watts Edwards"
+      },
+      {
+        "id": 1,
+        "name": "Sandoval Morse"
+      },
+      {
+        "id": 2,
+        "name": "William House"
+      },
+      {
+        "id": 3,
+        "name": "Lea Morton"
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "name": "Buckley",
+    "phone": "+1 (819) 411-2283",
+    "about": "Esse mollit commodo eu nulla eu incididunt cillum officia ex. Non dolore laboris qui Lorem pariatur aliquip incididunt ipsum Lorem commodo voluptate fugiat. Nisi reprehenderit adipisicing laboris cupidatat amet exercitation.\r\n",
+    "attending": [
+      {
+        "id": 0,
+        "name": "Petra Glover"
+      },
+      {
+        "id": 1,
+        "name": "Gardner Hardin"
+      },
+      {
+        "id": 2,
+        "name": "Rena Cline"
+      }
+    ],
+    "notattending": [
+      {
+        "id": 0,
+        "name": "Maldonado Kline"
+      },
+      {
+        "id": 1,
+        "name": "Colleen Smith"
+      }
+    ],
+    "unsure": [
+      {
+        "id": 0,
+        "name": "Celina Randall"
+      },
+      {
+        "id": 1,
+        "name": "Ellen Bell"
+      },
+      {
+        "id": 2,
+        "name": "Joann Calderon"
+      },
+      {
+        "id": 3,
+        "name": "Kaufman Serrano"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Hardy",
+    "phone": "+1 (929) 463-2853",
+    "about": "Cupidatat consequat sit adipisicing minim ea magna deserunt et nisi do cupidatat anim do. Voluptate in adipisicing adipisicing aliquip do aliquip laborum id. Culpa duis quis veniam commodo consequat irure consectetur amet ea incididunt ad adipisicing. Ad irure voluptate ad dolor adipisicing excepteur ex eu aliquip proident non culpa eu. Tempor mollit commodo occaecat mollit minim anim sint. Aute eu commodo amet labore dolor et tempor aliqua ea. Sunt nulla excepteur exercitation velit commodo amet do dolore non excepteur sint occaecat nisi.\r\n",
+    "attending": [
+      {
+        "id": 0,
+        "name": "Crosby Estrada"
+      },
+      {
+        "id": 1,
+        "name": "Tameka Solis"
+      },
+      {
+        "id": 2,
+        "name": "Buckley Fuentes"
+      }
+    ],
+    "notattending": [
+      {
+        "id": 0,
+        "name": "Jessie Ballard"
+      },
+      {
+        "id": 1,
+        "name": "Alejandra Hayden"
+      }
+    ],
+    "unsure": [
+      {
+        "id": 0,
+        "name": "Kent Mann"
+      },
+      {
+        "id": 1,
+        "name": "Nelson Floyd"
+      },
+      {
+        "id": 2,
+        "name": "Joyner Todd"
+      },
+      {
+        "id": 3,
+        "name": "Doreen Key"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Obrien",
+    "phone": "+1 (929) 598-3675",
+    "about": "Tempor dolore proident laborum consectetur enim consectetur. Ex nulla pariatur qui exercitation est. Excepteur tempor nostrud duis ad adipisicing reprehenderit anim veniam et aliquip tempor.\r\n",
+    "attending": [
+      {
+        "id": 0,
+        "name": "Clemons Whitley"
+      },
+      {
+        "id": 1,
+        "name": "Jo Robbins"
+      },
+      {
+        "id": 2,
+        "name": "Yesenia Pennington"
+      }
+    ],
+    "notattending": [
+      {
+        "id": 0,
+        "name": "Green Cole"
+      },
+      {
+        "id": 1,
+        "name": "Mitchell Petersen"
+      }
+    ],
+    "unsure": [
+      {
+        "id": 0,
+        "name": "Washington Macdonald"
+      },
+      {
+        "id": 1,
+        "name": "Berger Perry"
+      },
+      {
+        "id": 2,
+        "name": "Bartlett Gilbert"
+      },
+      {
+        "id": 3,
+        "name": "Amy Strong"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Rodriguez",
+    "phone": "+1 (912) 498-2636",
+    "about": "Non culpa ex fugiat velit labore. Dolore magna irure ipsum culpa ut do eu Lorem fugiat ipsum occaecat sunt. Do cupidatat mollit ullamco laborum ut incididunt dolore sint aute velit labore mollit anim exercitation. Ipsum aliqua exercitation anim mollit.\r\n",
+    "attending": [
+      {
+        "id": 0,
+        "name": "Reyna Erickson"
+      },
+      {
+        "id": 1,
+        "name": "Tina Golden"
+      },
+      {
+        "id": 2,
+        "name": "Hood Weeks"
+      }
+    ],
+    "notattending": [
+      {
+        "id": 0,
+        "name": "Ina Whitney"
+      },
+      {
+        "id": 1,
+        "name": "Garrett Saunders"
+      }
+    ],
+    "unsure": [
+      {
+        "id": 0,
+        "name": "Lessie Armstrong"
+      },
+      {
+        "id": 1,
+        "name": "Penny Joyce"
+      },
+      {
+        "id": 2,
+        "name": "Herring Guy"
+      },
+      {
+        "id": 3,
+        "name": "Graves Rosales"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Barr",
+    "phone": "+1 (831) 547-3378",
+    "about": "Consectetur mollit incididunt aute aliqua laboris ipsum et aute fugiat dolor commodo excepteur ullamco. Ad velit nulla nostrud est. Ut reprehenderit consectetur elit velit eu occaecat velit sunt. Enim ex enim nostrud amet nostrud sint magna velit.\r\n",
+    "attending": [
+      {
+        "id": 0,
+        "name": "Berry Vazquez"
+      },
+      {
+        "id": 1,
+        "name": "Saunders Terry"
+      },
+      {
+        "id": 2,
+        "name": "Amanda Short"
+      }
+    ],
+    "notattending": [
+      {
+        "id": 0,
+        "name": "Cantrell Hickman"
+      },
+      {
+        "id": 1,
+        "name": "Stout Wolf"
+      }
+    ],
+    "unsure": [
+      {
+        "id": 0,
+        "name": "Summers Jensen"
+      },
+      {
+        "id": 1,
+        "name": "Mcintosh Flynn"
+      },
+      {
+        "id": 2,
+        "name": "Noble Merritt"
+      },
+      {
+        "id": 3,
+        "name": "Janelle Harrington"
+      }
+    ]
+  }
+]
